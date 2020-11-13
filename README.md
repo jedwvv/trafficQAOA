@@ -5,6 +5,7 @@ Explores the optimization of the QAOA parameters and how this quantum algorithm 
 The whole project is completed using qiskit on Jupyter notebooks.
 
 You may skip parts of the guide depending on starting point, as this guide is designed to be understood from the very basics of quantum computing.
+
 Instructions(to be completed):
 1. --Basics of Quantum Computing--
 2. --QAOA Algorithm Introduction--
